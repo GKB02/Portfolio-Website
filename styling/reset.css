@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url(./font/RobotoMono-VariableFont_wght.ttf);
+    src: url(./font/RobotoMono-Italic-VariableFont_wght.ttf)
+}
+
+*{
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Roboto Mono';
+    font-weight: 400;
+}

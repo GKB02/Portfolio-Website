@@ -1,0 +1,67 @@
+#Personal Portfolio Plan#
+-------------------------
+##Style Ideas##
+**Theme:**
+
+Minimal / Light 
+
+**Fonts:**
+
+Roboto Mono - ExtraLight (200) / Regular (400) / SemiBold (600) / Bold (700)
+
+**Colour Scheme:**
+
+Colour Pallete:
+#6b9080 / rgb(107, 144, 128) / (Dark green)
+#a4c3b2 / rgb(164, 195, 178) / (Green) 
+#cce3de / rgb(204, 227, 222) / (Light Green)
+#eaf4f4 / rgb(234, 244, 244) / (Grey/White)
+#f6fff8 / rgb(246, 255, 248) / (Off-white)
+
+------------------------
+##Content##
+
+###About me:###
+
+Professional image
+Intro about myself: 
+"I'm an aspiring full-stack developer based in North London. Since I was younger I have always had a passion for mathematics,
+design and coding although once I had finished school I decided to work in accountancy. After 4 years of working as an Accounts Assistant
+and completeing my AAT levels 2 and 3 I decided to finally pursue my dream of working in the tech industry. Currently I am a student on CodeCademy
+where I am completing their full stack developer course and loving it!"
+
+
+###Experience / Skills:###
+
+HTML + Icon
+Javascript + Icon
+CSS + Icon
+Python + Icon
+Adobe Illustrator
+Adobe Photoshop
+AAT Level 3 - Advanced Diploma in Accountancy
+
+###Projects:###
+
+Horizontal slideshow - 1 project per slide
+Hovering over project will add translucent color overlay and display project info. 
+
+Company Home Page
+
+Luhm algorythm interpritor 
+
+###Contact:###
+
+**Form:**
+Name > Type="text"
+Email Address > type="text"
+Message > type="textarea" rows="?" cols="?"
+Submit button
+
+##Footer##
+LinkedIn 
+GitHub
+Button that leads to contact page.
+------------------------
+##Features##
+
